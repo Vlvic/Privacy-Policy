@@ -1,2 +1,3 @@
-# Privacy-Policy
-Privacy Policy
+# Политика конфиденциальности
+
+LVConfig не собирает никаких личный данных.
